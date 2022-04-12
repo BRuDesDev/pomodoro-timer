@@ -15,7 +15,7 @@ ________________________________________________________________________________
 **<h3>HOW DOES IT WORK</h3>**<br>
 1. Pick a task
 2. Start Pomodoro Timer<br>
-_Work on your task for the 25 min. After 25 min the timer will tell you to take a 5 min break. Do that. _<br>
+_Work on your task for the 25 min. After 25 min the timer will tell you to take a 5 min break. Do that._<br>
 **<t>When the 5 min is up, you will be awarded a Check [✔] meaning you finished 1 Pomodoro.**<br>
 
 This will repeat until you have completed 4 Pomodoro's, and EVERY 4 Pomodoros you will take a 20 min break.
