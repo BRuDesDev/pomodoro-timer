@@ -1,5 +1,8 @@
 # 🍅 Pomodoro Timer 🍅
 A GUI timer that helps you work more efficiently. Start thinking in tomatoes rather than hours!
+
+![image](https://user-images.githubusercontent.com/103232802/162863892-c4ce9750-1466-4220-9485-ae9ad7632301.png)
+
 __________________________________________________________________________________________
 
 Some hold the 'Pomodoro' technique as "the secret to effective time management".
